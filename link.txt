@@ -1,1 +1,10 @@
 https://xdaforums.com/t/dev-rom-unofficial-lineageos-19-android-12l-for-raspberry-pi-4-b.4356891/
+
+beepy
+https://github.com/wildoracle/beepy
+
+-Docs
+software 
+https://beepy.sqfmi.com/docs/software/linux-drivers
+drivers 
+https://beepy.sqfmi.com/docs/software/linux-drivers
