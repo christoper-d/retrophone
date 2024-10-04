@@ -2,6 +2,10 @@ https://xdaforums.com/t/dev-rom-unofficial-lineageos-19-android-12l-for-raspberr
 
 beepy
 https://github.com/wildoracle/beepy
+teclado
+https://www.tindie.com/products/arturo182/bb-q20-keyboard-with-trackpad-usbi2cpmod/
+
+https://hackaday.com/2023/08/07/review-beepy-a-palm-sized-linux-hacking-playground/
 
 -Docs
 software 
