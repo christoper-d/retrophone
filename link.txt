@@ -7,6 +7,8 @@ https://www.tindie.com/products/arturo182/bb-q20-keyboard-with-trackpad-usbi2cpm
 
 https://hackaday.com/2023/08/07/review-beepy-a-palm-sized-linux-hacking-playground/
 
+https://segmentfault.com/a/1190000044419698
+
 -Docs
 software 
 https://beepy.sqfmi.com/docs/software/linux-drivers
